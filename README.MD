@@ -74,7 +74,7 @@ Shoptik is licensed under the MIT License. See the LICENSE file for more informa
 
 ## Feedback
 
-Please let us know your thoughts on my app by sending any suggestions or feedback to kumaravishek2015@gmail.com.
+Please let us know your thoughts on my app by sending any suggestions or feedback to abhish20@iitk.ac.in
 
 
 ## 🚀 About Me
